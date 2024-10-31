@@ -24,3 +24,17 @@ I have been passionate about programming for over four years now and have become
 - Django 
 - SQL
 - Mongodb
+
+## Code example links
+
+- [RECO project](https://github.com/ppmarkek/RECO)
+
+## Experience
+
+Working at Fin Control Group has allowed me to hone my frontend development skills, playing a key role in the success of many projects by creating high-quality, responsive user interfaces. I am committed to continuous learning and staying up-to-date with the latest industry trends to deliver the most effective solutions.
+
+I also played a key role in developing a Python-based medical record-keeping project for schools, modeled after professional software used in medical institutions.
+
+
+
+
