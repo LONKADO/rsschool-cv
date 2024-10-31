@@ -35,6 +35,12 @@ Working at Fin Control Group has allowed me to hone my frontend development skil
 
 I also played a key role in developing a Python-based medical record-keeping project for schools, modeled after professional software used in medical institutions.
 
+## Education
+
+- Liepaja Liedaga secondary school - Mandatory educational program (2011 - 2021)
+- Liepājas Draudzīgā aicinājuma vidusskola 5 (2021-2023)
+- Liepājas Dienvidkurzemes 2 vsk (2023-2024)
+- Transporta un sakaru institūts (TSI) - Rīga computer since BA (2024)
 
 
 
