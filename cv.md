@@ -42,5 +42,9 @@ I also played a key role in developing a Python-based medical record-keeping pro
 - Liepājas Dienvidkurzemes 2 vsk (2023-2024)
 - Transporta un sakaru institūts (TSI) - Rīga computer since BA (2024)
 
+## English
+
+I have extensive experience interacting with foreigners. I started learning English at the age of 10 when I spent every summer living in England. I continue to develop my language skills to this day by watching content in English and practicing daily with friends and on forums.
+
 
 
