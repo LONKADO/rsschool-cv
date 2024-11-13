@@ -1,0 +1,50 @@
+# Nikita, Petrov
+
+## Contacts
+
+**Main Email** [nikitaptrv@gmail.com](nikitaptrv@gmail.com)
+**Telegram:** [https://t.me/zxc_n999 ](https://t.me/zxc_n999)
+**Instagram:** [https://www.instagram.com/h0ka9e_9/](https://www.instagram.com/h0ka9e_9/)
+**Discord:** lonkado
+
+## Summary
+
+I have been passionate about programming for over four years now and have become an experienced Python developer and senior. My work has not been limited to projects only – I have also shared my knowledge by teaching and mentoring others in Python programming. This has given me not only development experience but also recognition as an effective teacher. Now I have decided to take on a new challenge and delve deeper into the world of web frontend development to expand my skills and learn new technologies. 
+
+## Skills
+
+- C++
+- HTML
+- CSS
+- JavaScript
+- Jira
+- Figma
+- Git
+- Python
+- Django 
+- SQL
+- Mongodb
+
+## Code example links
+
+- [RECO project](https://github.com/ppmarkek/RECO)
+
+## Experience
+
+Working at Fin Control Group has allowed me to hone my frontend development skills, playing a key role in the success of many projects by creating high-quality, responsive user interfaces. I am committed to continuous learning and staying up-to-date with the latest industry trends to deliver the most effective solutions.
+
+I also played a key role in developing a Python-based medical record-keeping project for schools, modeled after professional software used in medical institutions.
+
+## Education
+
+- Liepaja Liedaga secondary school - Mandatory educational program (2011 - 2021)
+- Liepājas Draudzīgā aicinājuma vidusskola 5 (2021-2023)
+- Liepājas Dienvidkurzemes 2 vsk (2023-2024)
+- Transporta un sakaru institūts (TSI) - Rīga computer since BA (2024)
+
+## English
+
+I have extensive experience interacting with foreigners. I started learning English at the age of 10 when I spent every summer living in England. I continue to develop my language skills to this day by watching content in English and practicing daily with friends and on forums.
+
+
+
